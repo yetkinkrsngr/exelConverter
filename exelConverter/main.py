@@ -12,3 +12,6 @@ output_file_path = 'Modified_Ürünler.xlsx'  # Kaydetmek istediğiniz dosya ad�
 df.to_excel(output_file_path, index=False)
 
 print(f"Güncellenmiş dosya {output_file_path} olarak kaydedildi.")
+
+
+#life is life i am happy
